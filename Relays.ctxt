@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Relays
+comment1.params=
+comment1.target=void\ main()
+comment2.params=option
+comment2.target=double[]\ build(java.util.ArrayList)
+comment3.params=x
+comment3.target=double\ time(double[])
+comment4.params=medley\ tfree\ ffree
+comment4.target=int\ score(double[],\ double[],\ double[])
+numComments=5

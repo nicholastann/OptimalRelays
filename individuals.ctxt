@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=individuals
+comment1.params=
+comment1.target=void\ main()
+comment10.params=time
+comment10.target=int\ scorebreast(double)
+comment2.params=times
+comment2.target=int[]\ besttwo(double[])
+comment3.params=time
+comment3.target=int\ scoretwohundred(double)
+comment4.params=time
+comment4.target=int\ scoreim(double)
+comment5.params=time
+comment5.target=int\ scorefifty(double)
+comment6.params=time
+comment6.target=int\ scorefly(double)
+comment7.params=time
+comment7.target=int\ scorehundred(double)
+comment8.params=time
+comment8.target=int\ scorefivehundred(double)
+comment9.params=time
+comment9.target=int\ scoreback(double)
+numComments=11

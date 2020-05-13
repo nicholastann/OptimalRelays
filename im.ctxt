@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=im
+comment1.params=back\ breast\ fly\ free
+comment1.target=im(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getback()
+comment3.params=
+comment3.target=double\ getbreast()
+comment4.params=
+comment4.target=double\ getfly()
+comment5.params=
+comment5.target=double\ getfree()
+numComments=6
